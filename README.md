@@ -1,5 +1,5 @@
-# rec.html
-DOCTYPE html>
+
+<!DOCTYPE html>
 <!--
  *  Copyright (c) 2015 The WebRTC project authors. All Rights Reserved.
  *
